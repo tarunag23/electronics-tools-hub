@@ -1,6 +1,6 @@
 """
 Electronics Tools Hub 
-Author: Tarun (Electronics Engineering Student)
+Author: Tarun 
 Description: Web application to help find electronics engineering tools
 """
 
