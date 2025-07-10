@@ -1,3 +1,9 @@
+"""
+Electronics Tools Hub - Maketronics Tech Challenge
+Author: Tarun (Electronics Engineering Student)
+Description: Web application to help find electronics engineering tools
+"""
+
 from flask import Flask, jsonify, render_template, request
 from flask_cors import CORS
 import json
@@ -8,17 +14,17 @@ from data_collector import ElectronicsToolsCollector
 app = Flask(__name__)
 CORS(app)
 
-# Initialize electronics tools collector
+# Initialize my electronics tools collector
 collector = ElectronicsToolsCollector()
 
 @app.route('/')
 def index():
-    """Serve the main web interface"""
+    """Main page route - serves the web interface I built"""
     return render_template('index.html')
 
 @app.route('/api/tools')
 def get_tools():
-    """API endpoint to get all developer tools"""
+    """API endpoint I created to get all electronics tools data"""
     try:
         with open('data/tools.json', 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -28,7 +34,7 @@ def get_tools():
 
 @app.route('/api/tools/search')
 def search_tools():
-    """API endpoint to search electronics tools by keyword"""
+    """Search API I implemented to filter tools by keyword, category, and license"""
     query = request.args.get('q', '').lower()
     category = request.args.get('category', '')
     license_type = request.args.get('license', '')

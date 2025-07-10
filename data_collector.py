@@ -1,3 +1,9 @@
+"""
+Data Collector for Electronics Tools Hub
+Author: Tarun (Electronics Engineering Student)
+Description: Collects and organizes electronics engineering tools data
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -8,12 +14,13 @@ import os
 class ElectronicsToolsCollector:
     def __init__(self):
         self.tools_data = []
+        # HTTP headers I use for web scraping
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
     
     def collect_github_trending(self):
-        """Collect trending repositories from GitHub"""
+        """My method to collect trending repositories from GitHub"""
         print("Collecting GitHub trending repositories...")
         
         try:
