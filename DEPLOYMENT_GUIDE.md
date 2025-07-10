@@ -103,7 +103,7 @@ GitHub Pages only hosts static sites, so I would have needed to:
 
 ## 🌐 My Deployment Results
 
-My Electronics Engineering Tools Hub is now accessible worldwide at https://electronics-tools-hub.onrender.com, making it a perfect submission for the Maketronics challenge!
+My Electronics Engineering Tools Hub is now accessible worldwide at https://electronics-tools-hub.onrender.com, making it a perfect submission for my assignment!
 
 ## 💡 What I Learned About Deployment
 
@@ -115,4 +115,4 @@ My Electronics Engineering Tools Hub is now accessible worldwide at https://elec
 My project is successfully deployed and ready for submission! 🚀
 
 ---
-**Deployment completed by Tarun for Maketronics Tech Challenge**
+**Deployment completed by Tarun for assignment submission**

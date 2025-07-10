@@ -1,5 +1,5 @@
 """
-Electronics Tools Hub - Maketronics Tech Challenge
+Electronics Tools Hub - Assignment Project
 Author: Tarun (Electronics Engineering Student)
 Description: Web application to help find electronics engineering tools
 """

@@ -1,10 +1,10 @@
-# ⚡ Electronics Tools Hub - Maketronics Tech Challenge
+# ⚡ Electronics Tools Hub
 
-A web application I built to help electronics engineering students and professionals find the right tools for their projects. This is my submission for the Maketronics Tech Challenge.
+A web application I built to help electronics engineering students and professionals find the right tools for their projects. This is my assignment submission.
 
 ## 🎯 What I Built
 
-My project meets the **Maketronics Tech Challenge** requirements by:
+My project meets the assignment requirements by:
 - ✅ **Data Collection**: I gathered information about 20+ electronics engineering tools from various sources
 - ✅ **Data Organization**: Each tool entry includes name, description, category, and other useful details
 - ✅ **Web Interface**: I created an easy-to-use website where you can browse and search for tools
@@ -140,7 +140,7 @@ When you visit the website, you'll see:
 4. **Cost Consideration**: I knew students would especially care about which tools are free vs expensive
 5. **Organization**: I believed that categorizing tools by engineering specialty would make them easier to discover
 
-## 🎯 How My Project Meets the Challenge Requirements
+## 🎯 How My Project Meets the Assignment Requirements
 
 - **✅ Thought Process**: I chose electronics engineering tools because I'm studying this field and understand the challenge students face in finding the right tools
 - **✅ Creative Data Approach**: Instead of scraping just one website, I curated tools from multiple sources across different engineering specialties
@@ -170,5 +170,5 @@ When you visit the website, you'll see:
 - I kept the design simple and functional rather than overly complex
 
 ---
-**My Submission for the Maketronics Tech Challenge**
+**My Assignment Submission**
 *Demonstrating data collection, organization, and web application development skills*

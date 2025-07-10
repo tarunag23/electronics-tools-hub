@@ -2,7 +2,7 @@
 
 ## 🎯 What I Built
 
-I created a comprehensive web application for electronics engineers to discover tools across different domains in electronics and communication engineering. This is my submission for the Maketronics Tech Challenge.
+I created a comprehensive web application for electronics engineers to discover tools across different domains in electronics and communication engineering. This is my assignment submission.
 
 ## 📊 My Project Statistics
 
@@ -66,9 +66,9 @@ I intentionally designed the interface to be simple and functional rather than o
 - Classic HTML elements (I even used a marquee tag for a fun touch)
 - Clean, basic styling that focuses on functionality over flashiness
 
-## 📈 How My Project Meets the Challenge Requirements
+## 📈 How My Project Meets the Assignment Requirements
 
-My application perfectly addresses the Maketronics Tech Challenge requirements:
+My application perfectly addresses the assignment requirements:
 - ✅ I gathered 44 relevant tools (far exceeds the 15-20 requirement)
 - ✅ I structured each tool's data with name, description, category, popularity, and link
 - ✅ I provided both a web interface AND API endpoints
@@ -86,5 +86,5 @@ My project is complete and ready for submission with:
 - Clean, functional implementation that demonstrates my coding skills
 
 ---
-**Project completed by Tarun for Maketronics Tech Challenge**
+**Project completed by Tarun for assignment submission**
 *Demonstrating data collection, web development, and deployment skills*
